@@ -12,9 +12,9 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "main": "dist/screenfull.js",
+  "main": "dist/screenfull.min.js",
   "files": [
-    "dist/screenfull.js"
+    "dist/screenfull.min.js"
   ],
   "keywords": [
     "browser",
